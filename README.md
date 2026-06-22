@@ -1,7 +1,7 @@
 # HR Buddy — Agente de IA para RH via Telegram
 
 **Documentação técnica do projeto**
-Desenvolvido durante a Imersão Agentes de IA do Programa MCIO Brasil + Oracle ONE. *ONE | Imersão Agentes de IA* (Alura + Oracle Next Education)
+Desenvolvido durante a Inmersão Agentes de IA do Programa MCIO Brasil + Alura + Oracle Next Education
 
 ![Banner ONE Imersão Agentes de IA](imagens/banner-imersao.png)
 
@@ -216,5 +216,5 @@ Esse exemplo evidencia o comportamento esperado: quando o nome completo bate com
 
 ---
 
-*Projeto desenvolvido durante a Imersão Agentes de IA (Alura + Oracle Next Education - Junho/2026).*
+*Projeto desenvolvido durante a Inmersão Agentes de IA (Alura + Oracle Next Education - Junho/2026).*
 *Instrutores: Eric Monné, Giovani Polonio Ticianelli e Guilherme Lima.*
